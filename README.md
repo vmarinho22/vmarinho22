@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmarinho22/)](https://www.linkedin.com/in/vmarinho22/)
-[![Gmail Badge](https://img.shields.io/badge/-vmarinho.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmarinho.dev@gmail.com)](mailto:vmarinho.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusmarinho1616@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmarinho1616@gmail.com)](mailto:viniciusmarinho1616@gmail.com)
 
 
 <h2> I'm Vinicius Marinho</h2>
